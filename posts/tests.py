@@ -2,7 +2,6 @@ from django.urls import reverse
 from django.test import TestCase
 from .models import Post
 
-# TODO : add test in code to naxt update ...
 
 
 # Create your tests here.
